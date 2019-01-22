@@ -1,0 +1,11 @@
+D:\MVC\FirstMVCApp\FirstMVCApp.Service\bin\Debug\FirstMVCApp.Service.dll
+D:\MVC\FirstMVCApp\FirstMVCApp.Service\bin\Debug\FirstMVCApp.Service.pdb
+D:\MVC\FirstMVCApp\FirstMVCApp.Service\bin\Debug\MVCApplication.DAL.dll
+D:\MVC\FirstMVCApp\FirstMVCApp.Service\bin\Debug\Dapper.dll
+D:\MVC\FirstMVCApp\FirstMVCApp.Service\bin\Debug\MVCApplication.DAL.pdb
+D:\MVC\FirstMVCApp\FirstMVCApp.Service\bin\Debug\Dapper.xml
+D:\MVC\FirstMVCApp\FirstMVCApp.Service\obj\Debug\FirstMVCApp.Service.csprojAssemblyReference.cache
+D:\MVC\FirstMVCApp\FirstMVCApp.Service\obj\Debug\FirstMVCApp.Service.csproj.CoreCompileInputs.cache
+D:\MVC\FirstMVCApp\FirstMVCApp.Service\obj\Debug\FirstMVCApp.Service.csproj.CopyComplete
+D:\MVC\FirstMVCApp\FirstMVCApp.Service\obj\Debug\FirstMVCApp.Service.dll
+D:\MVC\FirstMVCApp\FirstMVCApp.Service\obj\Debug\FirstMVCApp.Service.pdb

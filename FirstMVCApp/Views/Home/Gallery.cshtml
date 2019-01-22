@@ -1,0 +1,16 @@
+﻿@model List<FirstMVCApp.Controllers.Product>
+@{
+    ViewBag.Title = "Gallery";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewData["message"]</h2>
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Id</li>
+        <li>@item.Name</li>
+    }
+
+</ul>
+
